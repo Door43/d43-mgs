@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgs:home|Door43 (mgs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mgs|d43-mgs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mgs/archive/master.zip|d43-mgs.zip]]
+
+**Recent Changes**
+{{changes>ns = mgs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mgs|Ethnologue data]]
+
